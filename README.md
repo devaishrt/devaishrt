@@ -43,14 +43,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Sr. Full-Stack Developer** with **5 years** of experience building scalable web apps, SaaS platforms, enterprise systems, AI-powered products and browser extensions, from pixel-perfect React frontends to solid Node.js APIs.
+I'm a **Sr. Full-Stack Developer** experienced in building scalable web apps, SaaS platforms, enterprise systems, AI-powered products and browser extensions, from pixel-perfect React frontends to solid Node.js APIs.
 
 <br/>
 
 <table align="center">
 <tr>
 <td>⏳&nbsp; <b>Experience</b></td>
-<td><code>5 years</code> <code>15+ client products shipped</code></td>
+<td> <code>15+ client products shipped</code></td>
 </tr>
 <tr>
 <td>🌍&nbsp; <b>Domains</b></td>
