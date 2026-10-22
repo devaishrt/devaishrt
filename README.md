@@ -244,111 +244,7 @@ I care about **performance, reliability & reusable architecture**
 
 <!-- ===================== EDUCATION ===================== -->
 
-## 🎓 Education & Certifications
 
-<table align="center">
-<tr>
-<td align="center">🎓</td>
-<td><b>MCA</b></td>
-<td>Chandigarh University</td>
-<td><code>2023</code></td>
-</tr>
-
-<tr>
-<td align="center">🎓</td>
-<td><b>BCA</b></td>
-<td>JMIT, Kurukshetra University</td>
-<td><code>2021</code></td>
-</tr>
-
-<tr>
-<td align="center">📜</td>
-<td><b>Node.js Training</b></td>
-<td>Apptunix</td>
-<td></td>
-</tr>
-
-<tr>
-<td align="center">📜</td>
-<td><b>Web Development</b></td>
-<td>Tech Mahindra</td>
-<td></td>
-</tr>
-
-<tr>
-<td align="center">📜</td>
-<td><b>O-Level</b></td>
-<td>Aptech (NIELIT)</td>
-<td></td>
-</tr>
-</table>
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3000&pause=900&color=BF91F3&center=true&vCenter=true&width=500&lines=Curiosity+%E2%86%92+Learning+%E2%86%92+Building+%E2%86%92+Impact" alt="Achievements animation" />
-</p>
-
-<table align="center">
-<tr>
-<td align="center">🥇</td>
-<td><b>Excellence Certificate in Quiz</b></td>
-<td>Aptron Solutions Pvt. Ltd.</td>
-</tr>
-
-<tr>
-<td align="center">🎤</td>
-<td><b>Finalist</b></td>
-<td>Power Grid Corporation Haryana Debate &nbsp;<code>2018</code></td>
-</tr>
-
-<tr>
-<td align="center">🧑‍🤝‍🧑</td>
-<td><b>Organizer</b></td>
-<td>Make It Happen Club</td>
-</tr>
-
-<tr>
-<td align="center">🧠</td>
-<td><b>Quiz Participant</b></td>
-<td>APJ Abdul Kalam Technical University</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" height="8" alt="" />
-</p>
-
-<!-- ===================== GITHUB ===================== -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=aishrt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&disable_animations=false" height="170" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aishrt&layout=donut&theme=tokyonight&hide_border=true&border_radius=16&disable_animations=false&hide=html,css,scss,handlebars,dockerfile,php,c,c%2B%2B&langs_count=4" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aishrt&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aishrt&theme=tokyonight" alt="Contribution graph" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/70A5FD/aishrt" width="100%" alt="Contribution chart" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" height="8" alt="" />
-</p>
-
-<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Let's Connect
 
@@ -357,32 +253,10 @@ I care about **performance, reliability & reusable architecture**
 </p>
 
 <p align="center">
-  <a href="https://aishwaryarajtyagi.netlify.app/">
-    <img height="30" src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/aishwarya-raj-tyagi/">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/aishrt">
-    <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&customColorList=12,14,16,18&text=Let's%20build%20something%20great&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" alt="Let's build something great" />
 </p>
 
-<p align="center">
-  <i>Open to full-stack & AI product opportunities. Feel free to reach out! 🚀</i>
-</p>
 
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting!" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,16,18,20&section=footer&animation=twinkling" width="100%" alt="" />
